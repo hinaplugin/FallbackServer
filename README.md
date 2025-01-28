@@ -17,8 +17,10 @@ fallbackserver.commands.reload
 ## Config
 ```
 fallback-server: "lobby"
-fallback-message: "<green>Fallbackによりlobbyに移動しました．"
-fallback-title: "<red>サーバーがクラッシュしました．"
-fallback-subtitle: "そのためサーバーを移動しました．"
+fallback-message: ""
+fallback-title: ""
+fallback-subtitle: ""
 fallback-actionbar: ""
 ```
+message, title, subtitle, actionbarはそれぞれMiniMessageに対応しているため，
+<green>Text</green>などで色付けできます．
