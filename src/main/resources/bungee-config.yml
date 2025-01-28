@@ -1,0 +1,5 @@
+fallback-server: "lobby"
+fallback-message: "<green>Fallbackによりlobbyに移動しました．"
+fallback-title: "<red>サーバーがクラッシュしました．"
+fallback-subtitle: "そのためサーバーを移動しました．"
+fallback-actionbar: ""

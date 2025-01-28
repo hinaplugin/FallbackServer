@@ -1,0 +1,5 @@
+name: FallBackServer
+version: '1.0.0'
+main: com.hinaplugin.fallBackServer.FallBackServer
+author: hina2113
+description: ちゃんと動くFallBackServerPlugin
