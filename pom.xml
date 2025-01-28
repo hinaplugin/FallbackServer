@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hinaplugin</groupId>
-    <artifactId>fallbackserver</artifactId>
+    <artifactId>FallbackServer</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>fallbackserver</name>
+    <name>FallbackServer</name>
 
     <properties>
         <java.version>1.8</java.version>
