@@ -23,4 +23,4 @@ fallback-subtitle: ""
 fallback-actionbar: ""
 ```
 message, title, subtitle, actionbarはそれぞれMiniMessageに対応しているため，
-<green>Text</green>などで色付けできます．
+"<green>"Text"</green>"などで色付けできます．
